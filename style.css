@@ -51,7 +51,7 @@ h4 { font-size: 20px; font-weight: 600; }
 .num b { display: block; margin-bottom: 40px; font-size: 80px; font-weight: 800; line-height: 1; color: rgba(17, 120, 178, .5); }
 .num h4 { margin-bottom: 14px; }
 
-.banner {
+.banner { 
   margin-top: 100px;
   padding: 130px 0;
   background: linear-gradient(rgba(0, 0, 0, .6), rgba(0, 0, 0, .6)), url('images/desktop_1920_7.jpg') center / cover;
