@@ -164,13 +164,11 @@ h4 { font-size: 20px; font-weight: 600; }
 .fl{width: 20px; position: absolute; left: 90px; top: 170px}
 .form .btn { margin-top: 30px; padding: 24px 40px; }
 
-/* ===== Футер ===== */
 .footer { padding: 30px 0; background: linear-gradient(rgba(0, 0, 0, .89), rgba(0, 0, 0, .89)), url('images/desktop_1920_6.jpg') center / cover; color: #fff; }
 .foot { display: flex; justify-content: space-between; align-items: center; }
 .foot p { font-size: 14px; }
 .addr { width: 212px; font-size: 14px; }
 
-/* ===== Смартфон ===== */
 @media (max-width: 768px) {
   .container { padding: 0 20px; }
   .block { margin-top: 60px; }
