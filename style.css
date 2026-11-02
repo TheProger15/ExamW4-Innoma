@@ -47,7 +47,6 @@ h4 { font-size: 20px; font-weight: 600; }
 .row-text p { margin-bottom: 25px; }
 .row-text .btn { padding: 24px 74px; }
 
-/* ===== Карточки с номерами ===== */
 .num { padding: 70px 30px 40px; text-align: center; }
 .num b { display: block; margin-bottom: 40px; font-size: 80px; font-weight: 800; line-height: 1; color: rgba(17, 120, 178, .5); }
 .num h4 { margin-bottom: 14px; }
