@@ -23,7 +23,6 @@ h4 { font-size: 20px; font-weight: 600; }
   cursor: pointer;
 }
 
-/* ===== Шапка и первый экран ===== */
 .hero {
   height: 900px;
   background: linear-gradient(rgba(0, 0, 0, .59), rgba(0, 0, 0, .59)), url('images/desktop_1920_6.jpg') center / cover;
@@ -40,7 +39,6 @@ h4 { font-size: 20px; font-weight: 600; }
 .hero h1 span { margin-left: -12px; padding: 4px 12px; border-radius: 3px; background: #07af91; }
 .hero-text p { margin: 25px 0 50px; font-size: 34px; font-weight: 400; }
 
-/* ===== Услуги ===== */
 .row { display: flex; align-items: center; justify-content: space-between; gap: 50px; margin-bottom: 60px; }
 .row.reverse { flex-direction: row-reverse; }
 .row > img { width: 495px; border-radius: 10px; }
